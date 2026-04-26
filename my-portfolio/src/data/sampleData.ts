@@ -650,16 +650,6 @@ export const certificates: Certificate[] = [
     skills: ['Innovation', 'Problem Solving', 'Presentation']
   },
   {
-    id: '6',
-    title: 'Web Development Professional',
-    issuer: 'Tech Academy Ethiopia',
-    date: '2023-08-20',
-    description: 'Professional certification in modern web development technologies and frameworks.',
-    credentialUrl: 'https://verify.techacademy.et/WD-2023-0847',
-    category: 'professional',
-    skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js']
-  },
-  {
     id: '7',
     title: 'RUFORUM Certificate',
     issuer: 'Regional Universities Forum for Capacity Building in Agriculture',
