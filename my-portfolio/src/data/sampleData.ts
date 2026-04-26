@@ -601,9 +601,9 @@ export const certificates: Certificate[] = [
   {
     id: '1',
     title: 'Full Stack Web Development',
-    issuer: 'Haramaya University',
+    issuer: 'Udacity',
     date: '2024-12-15',
-    description: 'Completed comprehensive full-stack web development program covering modern technologies and best practices.',
+    description: 'Fundamental course in web development covering essential technologies and best practices for building modern web applications.',
     image: '/images/certificates/cert_1.jpg',
     credentialId: 'HU-FSWD-2024-001',
     category: 'academic',
@@ -612,9 +612,9 @@ export const certificates: Certificate[] = [
   {
     id: '2',
     title: 'Leadership Excellence Award',
-    issuer: 'Haramaya University Student Services',
+    issuer: 'Ethiopian Ministry of Education',
     date: '2024-11-20',
-    description: 'Recognized for outstanding leadership as President of SSA and Vice President of Charity Club.',
+    description: 'Voluntary job recognition for outstanding leadership as President of SSA and Vice President of Charity Club.',
     image: '/images/certificates/certi_2.jpg',
     category: 'leadership',
     skills: ['Leadership', 'Community Service', 'Event Management']
@@ -650,7 +650,7 @@ export const certificates: Certificate[] = [
     skills: ['Innovation', 'Problem Solving', 'Presentation']
   },
   {
-    id: '7',
+    id: '6',
     title: 'RUFORUM Certificate',
     issuer: 'Regional Universities Forum for Capacity Building in Agriculture',
     date: '2024-10-15',
@@ -660,7 +660,7 @@ export const certificates: Certificate[] = [
     skills: ['Agricultural Innovation', 'Research', 'Capacity Building']
   },
   {
-    id: '8',
+    id: '7',
     title: 'DINE Certificate',
     issuer: 'Digital Innovation and Entrepreneurship',
     date: '2024-08-30',
@@ -670,7 +670,7 @@ export const certificates: Certificate[] = [
     skills: ['Digital Innovation', 'Entrepreneurship', 'Technology Business']
   },
   {
-    id: '9',
+    id: '8',
     title: 'Charity Leadership Certificate',
     issuer: 'Ethiopian Charity Foundation',
     date: '2024-07-20',
