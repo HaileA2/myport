@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Mail, Download, ArrowRight, ExternalLink, Code } from 'lucide-react'
+import { Mail, Download, ArrowRight, Github, Linkedin, MessageCircle, Facebook, Music } from 'lucide-react'
 import { useLanguageStore } from '../../store'
 import { languages } from '../../data/languages'
 import { socialLinks } from '../../data/sampleData'
@@ -79,9 +79,11 @@ export function Hero() {
 
   const getSocialIcon = (platform: string) => {
     const iconMap: Record<string, React.ReactNode> = {
-      'GitHub': <Code className="h-5 w-5" />,
-      'LinkedIn': <ExternalLink className="h-5 w-5" />,
-      'Twitter': <Mail className="h-5 w-5" />,
+      'GitHub': <Github className="h-5 w-5" />,
+      'LinkedIn': <Linkedin className="h-5 w-5" />,
+      'Telegram': <MessageCircle className="h-5 w-5" />,
+      'Facebook': <Facebook className="h-5 w-5" />,
+      'TikTok': <Music className="h-5 w-5" />,
       'Email': <Mail className="h-5 w-5" />
     }
     return iconMap[platform] || <Mail className="h-5 w-5" />
