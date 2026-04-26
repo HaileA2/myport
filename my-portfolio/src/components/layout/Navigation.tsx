@@ -65,7 +65,7 @@ export function Navigation() {
           <div className="flex items-center justify-between">
             {/* Logo */}
             <motion.div
-              className="text-2xl font-bold gradient-primary bg-clip-text text-transparent"
+              className="text-2xl font-bold bg-gradient-to-r from-white via-gray-100 to-white bg-clip-text text-transparent drop-shadow-lg"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
