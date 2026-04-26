@@ -600,9 +600,9 @@ The future is bright, and we're the ones who will build it.`,
 export const certificates: Certificate[] = [
   {
     id: '1',
-    title: 'Full Stack Web Development',
+    title: 'Fundamental Web Development ',
     issuer: 'Udacity',
-    date: '2024-12-15',
+    date: '2023-12-15',
     description: 'Fundamental course in web development covering essential technologies and best practices for building modern web applications.',
     image: '/images/certificates/cert_1.jpg',
     credentialId: 'HU-FSWD-2024-001',
@@ -611,10 +611,10 @@ export const certificates: Certificate[] = [
   },
   {
     id: '2',
-    title: 'Leadership Excellence Award',
+    title: 'Cross-Country Voluntary Job ',
     issuer: 'Ethiopian Ministry of Education',
     date: '2024-11-20',
-    description: 'Voluntary job recognition for outstanding leadership as President of SSA and Vice President of Charity Club.',
+    description: 'Voluntary job recongnition From ministry of education and ministry of peace.',
     image: '/images/certificates/certi_2.jpg',
     category: 'leadership',
     skills: ['Leadership', 'Community Service', 'Event Management']
@@ -622,7 +622,7 @@ export const certificates: Certificate[] = [
   {
     id: '3',
     title: 'Software Engineering Excellence',
-    issuer: 'Computer Science Department',
+    issuer: 'Software Engineering Department, Haramaya University',
     date: '2024-06-10',
     description: 'Awarded for exceptional performance in software engineering coursework and project development.',
     image: '/images/certificates/cert-3.jpg',
@@ -631,20 +631,21 @@ export const certificates: Certificate[] = [
   },
   {
     id: '4',
-    title: 'Community Impact Champion',
-    issuer: 'Charity Club Haramaya',
-    date: '2024-09-05',
-    description: 'Recognized for significant contributions to community service initiatives and charity work.',
+    title: 'Agentic AI Training Certificate',
+    issuer: 'Vanderbilt University',
+    date: '2026-01-05',
+    description: 'Professional certification in Agentic AI training and advanced artificial intelligence concepts.',
     image: '/images/certificates/cert-4.jpg',
     category: 'achievement',
     skills: ['Community Service', 'Project Management', 'Team Leadership']
   },
   {
     id: '5',
-    title: 'Innovation Challenge Winner',
-    issuer: 'Haramaya Tech Hub',
-    date: '2024-03-15',
-    description: 'Won first place in university innovation challenge for FarmConnect project concept.',
+    title: 'Agentic AI Training Certificate',
+   issuer: 'UNDP AFRICA',
+    date: '2026-03-15',
+    
+    description: 'Advanced training certificate in Agentic AI from UNDP Africa focusing on AI applications in development.',
     image: '/images/certificates/cert-5.jpg',
     category: 'achievement',
     skills: ['Innovation', 'Problem Solving', 'Presentation']
@@ -661,10 +662,10 @@ export const certificates: Certificate[] = [
   },
   {
     id: '7',
-    title: 'DINE Certificate',
-    issuer: 'Digital Innovation and Entrepreneurship',
-    date: '2024-08-30',
-    description: 'Certification in digital innovation and entrepreneurship skills development program.',
+    title: 'Haramaya Lake cleaning Certificate',
+    issuer: 'vice president of Haramaya University ',
+    date: '2026-08-30',
+    description: 'Certificate of participation in Haramaya Lake cleaning and environmental conservation initiative.',
     image: '/images/certificates/dine.jpg',
     category: 'professional',
     skills: ['Digital Innovation', 'Entrepreneurship', 'Technology Business']
