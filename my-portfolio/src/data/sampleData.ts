@@ -679,6 +679,16 @@ export const certificates: Certificate[] = [
     image: '/images/certificates/charity.jpg',
     category: 'leadership',
     skills: ['Charity Work', 'Community Leadership', 'Social Impact']
+  },
+  {
+    id: '9',
+    title: 'Full Stack Web Development Internship',
+    issuer: 'Belight Company',
+    date: '2024-12-15', // Assuming current date or recent, adjust as needed
+    description: '3-month internship certificate in full stack web development, demonstrating proficiency in modern web technologies and development practices.',
+    image: '/images/certificates/Belit.jpg',
+    category: 'professional',
+    skills: ['Full Stack Development', 'React', 'Node.js', 'JavaScript', 'Web Development']
   }
 ]
 
